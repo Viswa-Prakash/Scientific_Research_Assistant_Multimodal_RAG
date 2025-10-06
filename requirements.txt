@@ -1,0 +1,23 @@
+# Core ML libraries
+torch
+transformers
+sentencepiece
+faiss-cpu
+
+# PDF & image processing
+PyPDF2
+PyMuPDF
+Pillow
+python-dotenv
+
+# LangChain & LangGraph
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+
+# Streamlit for web UI
+streamlit
+
+# Optional for data manipulation
+numpy
