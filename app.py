@@ -4,6 +4,7 @@ from rag import ScientificResearchRAG
 from PyPDF2 import PdfReader
 import fitz  # PyMuPDF for images/tables extraction
 
+
 st.set_page_config(page_title="Scientific Research Assistant", layout="wide")
 st.title("Scientific Research Assistant – Multimodal RAG")
 

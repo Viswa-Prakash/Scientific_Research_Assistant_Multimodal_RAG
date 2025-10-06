@@ -104,6 +104,7 @@ class VectorStore:
     def __len__(self):
         return len(self.docs)
 
+
 # -----------------------------
 # Scientific Research Assistant RAG
 # -----------------------------

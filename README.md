@@ -45,7 +45,6 @@ Answer + Relevant Figures
 
 ---
 
-
 - **Text Embeddings**: SciBERT (768-dimensional vectors)  
 - **Image Embeddings**: CLIP (512-dimensional vectors)  
 - **Vector Storage**: FAISS (efficient similarity search)  
